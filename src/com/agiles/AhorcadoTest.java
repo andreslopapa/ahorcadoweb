@@ -16,7 +16,7 @@ public class AhorcadoTest {
 		String letra = ahorcado.getLetrasUsadas();
 		
 		assertEquals("h", letra);
-	}
+	}//asd
 	
 	@Test
 	public void juegoGanado() {
