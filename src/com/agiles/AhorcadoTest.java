@@ -112,7 +112,7 @@ public class AhorcadoTest {
 		String mostrado = ahorcado.mostrarPalabra();
 		
 		assertEquals("h_l_", mostrado);
-	}
+	}//
 
 	@Test
 	public void ingresarPalabraCompleta() {
